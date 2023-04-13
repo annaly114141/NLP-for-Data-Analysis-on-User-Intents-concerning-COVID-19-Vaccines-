@@ -1,4 +1,4 @@
-# NLP-for-data-analysis
+# Natural Language Processing for Data Analysis on User Intents concerning COVID-19 Vaccines 
 
 # JupyterNotebook 
 Natural Language Processing for Data Analysis on User Intents concerning COVID-19 Vaccines
